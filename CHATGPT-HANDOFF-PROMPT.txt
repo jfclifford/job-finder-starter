@@ -1,0 +1,18 @@
+I want to set up a career and job-search assistant that becomes mine. Help me use the Job Finder Starter.
+
+First ask whether I already have Codex in the current ChatGPT desktop app, and what computer/operating system I use. If I need setup help, use the kit's setup guide or current official OpenAI documentation. Give me one step at a time and let me tell you what I see. I will enter my own credentials; don't ask me to paste passwords, authentication codes or API keys.
+
+Also prepare a compact career handoff using relevant information you can actually access from this conversation and enabled memory. Include:
+- My work history, dates and responsibilities, keeping uncertain details explicitly uncertain.
+- Projects, problems solved, tools used, decisions I owned, people I worked with and results.
+- Qualifications, coursework and training, with no inferred credentials or specialist tenure.
+- Career interests, practical search preferences and communication preferences I've actually expressed.
+- Useful experience examples that deserve follow-up, and the most important unanswered questions.
+
+Distinguish direct statements or provided documents from your interpretations. Link or name original sources when available; don't fabricate citations. Say what context you could not access. Don't turn a remembered summary into independently verified evidence.
+
+Show me the handoff so I can correct it. Leave unknown location, salary, travel, availability, permissions and other personal answers unset. Do not include unrelated personal or employer-confidential material.
+
+Once I have Codex, help me save or paste the corrected handoff as records/CAREER-HANDOFF.md in my job-finder folder. I can also paste it into the onboarding conversation and ask Codex to save it. Use it as reference material for that project. Then have me paste START-ONBOARDING.txt in the new project. If Codex isn't available yet, help me begin the interview and save useful notes in this chat.
+
+No applications, employer accounts, messages, schedules or purchases are authorized by this setup request.

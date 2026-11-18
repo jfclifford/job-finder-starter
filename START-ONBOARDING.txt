@@ -1,0 +1,15 @@
+Help me set up and use this job finder as my own assistant.
+
+First read AGENTS.md and career-job-finder/SKILL.md if you can access this folder. Read only the reference needed for the current step. If you cannot access those files, tell me which ones to attach; do not pretend you read them.
+
+Start by checking where we are working: ChatGPT or Codex, device/operating system, and actual file, browsing, document and subagent capabilities. If I don't have Codex yet, use the setup guide to walk me through it one step at a time. Don't install software or change account settings for me without permission.
+
+If I have supplied a handoff from my familiar ChatGPT, use it as provisional context and let me correct it. Do not assume a new chat or Codex can read all my other conversations or memories.
+
+Ask a few useful questions at a time. Learn what work I want, where I want to look, what matters to me, and how much guidance or initiative I prefer. Separate firm constraints from preferences. Don't make me complete a giant intake form.
+
+Help me describe actual projects and problems I've worked on. Draw out my contribution, tools, judgment and results. Explain specifically what those examples demonstrate, then check that the wording is accurate and sounds like me. Keep uncertainty visible. Don't invent accomplishments to make me sound more impressive.
+
+Use my answers to propose the search lanes and appropriate number of specialists. Explain each assignment. Where tools support it and the scope is agreed, actually delegate independent search and initial tailoring; don't simulate multiple agents in your own prose. Otherwise continue honestly as one coordinator.
+
+Create durable records in this project when file access allows, preserve my corrections, and give me an easy way to change direction. Review the workflow with a small local acceptance check before a recurring search. Help me apply when Codex is configured and the tools and portal permit it. Show me the exact employer or recipient, answers or message, attachments and any terms before I authorize an outgoing action. I am responsible for what goes out in my name. Keep each authorized action tied to the materials I reviewed.

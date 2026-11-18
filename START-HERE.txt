@@ -1,0 +1,25 @@
+Job Finder Starter
+
+1. Download the ZIP and unzip it somewhere you control.
+2. If you already have Codex, open that folder in Codex and paste
+   START-ONBOARDING.txt into a new chat. Codex reads the project guides.
+3. If you're new to Codex, paste CHATGPT-HANDOFF-PROMPT.txt into a
+   ChatGPT conversation where you've talked about your work. It can
+   guide you through setup and ask which career details to bring over.
+   If it asks for a guide, give it career-job-finder/references/setup-codex.md.
+   You can also start with a resume or answer questions directly.
+
+You choose the kinds of work, places and constraints. The assistant helps
+you turn real work examples into a resume, checks job postings and
+adapts drafts for roles you choose. You review and approve any outgoing
+application or message in your name.
+
+Keep your private materials in these folders in your local copy:
+  records/       Career profile, experience log and tracker
+  resumes/       Resume files you bring to the workspace
+  applications/ Per-role evidence, drafts, approvals and receipts
+  research/      Working search evidence
+
+Git ignores these folders by default. Before sharing or committing
+changes, check that your personal information is only in your private
+copy. For a ChatGPT-only option and a fictional example, see README.md.

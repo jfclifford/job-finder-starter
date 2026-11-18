@@ -1,0 +1,18 @@
+# Local job-search material
+/records/
+/resumes/
+/applications/
+/research/
+/private/
+/.codex/
+/.agents/
+
+# Personal exports and credentials
+.env
+.env.*
+*.pdf
+*.docx
+*.xlsx
+*.zip
+.DS_Store
+Thumbs.db

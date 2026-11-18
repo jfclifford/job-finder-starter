@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Career and Job Finder"
+  short_description: "Guided career intake, job search, and application review"
+  default_prompt: "Use $career-job-finder to guide my setup or resume from my current job-search records."
